@@ -1,7 +1,7 @@
 # My Porfolio
 This is my resume and portfolio, and I am looking for a full-time job.
 My name is Giusseppe Benito Bervis Quintero, I am a mathematician from Nicaragua, in Central America.
-I am graduated from Cantabria's University, Spain with an M.Sc. in Math and Computing.
+I am graduated from Cantabria's University, Spain with an M.Sc. in Math and Computing. I’m interested in increase my knowledge about mathematics and data science.
 
 # Contact
 **Email:** gbervis93@gmail.com \
