@@ -15,6 +15,8 @@ Python:
 - Simulation: https://github.com/gbervis/Simulacion.git
 - Solver and objective reduction for MOOPs: https://github.com/gbervis/EMO-package.git
 - Scheduling solve package: https://github.com/gbervis/Scheduling.git
+- Data Analysis: https://github.com/gbervis/Data_Analysis_Intro.git
+- Data Visualization: https://github.com/gbervis/Data_Visualization.git
 
 MatLab:
 - https://github.com/gbervis/data-pre-processing-ARCENE.git
