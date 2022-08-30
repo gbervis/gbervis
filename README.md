@@ -15,6 +15,7 @@ Python:
 - Scheduling solve package: https://github.com/gbervis/Scheduling.git
 - Data Analysis: https://github.com/gbervis/Data_Analysis_Intro.git
 - Data Visualization: https://github.com/gbervis/Data_Visualization.git
+- Machine Learning: https://github.com/gbervis/Machine-Learning.git
 
 MatLab:
 - https://github.com/gbervis/data-pre-processing-ARCENE.git
