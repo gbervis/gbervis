@@ -29,7 +29,7 @@
 
 ## About Me
 
-Hi, I'm **Giusseppe Bervis**, a mathematician from Nicaragua 🇳🇮, currently based in Valencia, Spain 🇪🇸, with an M.Sc. in Mathematics and Computing from the University of Cantabria.
+Hi, I'm **Giusseppe Bervis**, a mathematician from Nicaragua <img src="https://flagcdn.com/ni.svg" width="20" alt="Nicaragua" />, currently based in Valencia, Spain <img src="https://flagcdn.com/es.svg" width="20" alt="Spain" />, with an M.Sc. in Mathematics and Computing from the University of Cantabria.
 
 My interests lie at the intersection of **applied mathematics, scientific computing, data science, and machine learning**. I enjoy understanding complex problems, exploring their mathematical foundations, and developing computational approaches to solve them.
 
